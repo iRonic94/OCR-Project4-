@@ -174,7 +174,8 @@ p.about-me__introduction {
 	font-family: Spectral;
 	font-style: italic;
 	font-weight: 300;
-
+	font-size: 2.5rem;
+	line-height: 1.2;
 }
 
 .quote__author {
