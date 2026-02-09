@@ -70,6 +70,10 @@ img.d-block {
 	object-fit: contain;
 }
 
+.visually-hidden {
+	color: black;
+}
+
 .picture {
 	flex: 1;
 	margin: 0 20px;
